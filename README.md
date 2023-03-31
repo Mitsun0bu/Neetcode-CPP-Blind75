@@ -1,6 +1,6 @@
 # Neetcode-CPP-Blind75
 
-This repository contains C++ solutions for the Blind75 coding challenges from the Neetcode website.
+This repository contains C++ solutions for the Blind75 coding challenges from https://neetcode.io
 
 ## Repository Structure
 
