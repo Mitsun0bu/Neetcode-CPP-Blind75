@@ -31,7 +31,7 @@ In each exercise directory, you will find the following files:
 To test a solution, navigate to the exercise directory and run the `test.sh` script:
 
 ```bash
-cd module00/ex00_name
+cd moduleXX/exXX_name
 ./test.sh
 ```
 
