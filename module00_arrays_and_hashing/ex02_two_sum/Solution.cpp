@@ -13,6 +13,7 @@ std::vector<int> Solution::twoSum(std::vector<int>& nums, int target)
             if (my_map.find(right_operand) != my_map.end())
             {
                 int i_right_operand = my_map[right_operand];
+
                 result.push_back(i_right_operand);
                 result.push_back(i_left_operand);
                 break;
