@@ -10,8 +10,4 @@ class Solution
     public:
 
         std::vector<int> topKFrequent(std::vector<int>& nums, int k);
-
-    private:
-        
-        std::string getKey(int num);
 };
